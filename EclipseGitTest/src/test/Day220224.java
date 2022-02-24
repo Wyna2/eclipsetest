@@ -7,6 +7,8 @@ public class Day220224 {
 		System.out.println("CommitAndPushTest");
 		System.out.println("================");
 		
+		System.out.println("update1");
+		System.out.println("update2");
 	}
 
 }
